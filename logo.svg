@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360">
+ <defs>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE2A0"/><stop offset=".48" stop-color="#F6B443"/><stop offset="1" stop-color="#D98219"/></linearGradient>
+  <linearGradient id="word" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF5DB"/><stop offset="1" stop-color="#F2B24B"/></linearGradient>
+ </defs>
+ <g transform="translate(190 180)" stroke="url(#gold)" stroke-width="20" stroke-linecap="round">
+  <g id="rays">
+   <path d="M0 -145V-190 M-57 -133L-83 -176 M-103 -103L-145 -145 M-133 -57L-180 -75 M-145 0H-194 M-133 57L-180 75 M-103 103L-145 145 M-57 133L-83 176 M0 145V190 M57 133L83 176 M103 103L145 145"/>
+  </g>
+  <path fill="url(#gold)" stroke="none" d="M30 -112 A120 120 0 1 0 30 112 A95 95 0 1 1 30 -112Z"/>
+ </g>
+ <text x="355" y="220" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="800" letter-spacing="7" fill="url(#word)">ÉCLAT</text>
+ <path d="M356 250H790" stroke="#F2A93F" stroke-width="5" stroke-linecap="round" opacity=".6"/>
+</svg>
